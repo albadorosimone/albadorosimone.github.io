@@ -56,12 +56,12 @@ p {
 }
 
 ::-moz-selection {
-  background: #b8a07e;
+  background: darkred;
   color: #fff;
 }
 
 ::selection {
-  background: #b8a07e;
+  background: darkred;
   color: #fff;
 }
 
@@ -130,7 +130,7 @@ p {
 }
 
 .hvr-shutter-in-horizontal:hover {
-  background: #b8a07e;
+  background: darkred;
 }
 
 .mb-30 {
@@ -151,7 +151,7 @@ p {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #b8a07e;
+  background: darkred;
   width: 40px;
   height: 40px;
   border-radius: 4px;
@@ -163,7 +163,7 @@ p {
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #c6b398;
+  background: darkred;
   color: #fff;
 }
 .back-to-top.active {
@@ -244,7 +244,7 @@ p {
   margin-left: 5px;
 }
 .navbar a:hover, .navbar .active, .navbar .active:focus, .navbar li:hover > a {
-  color: #b8a07e;
+  color: darkred;
 }
 .navbar .dropdown ul {
   display: block;
@@ -271,7 +271,7 @@ p {
   font-size: 12px;
 }
 .navbar .dropdown ul a:hover, .navbar .dropdown ul .active:hover, .navbar .dropdown ul li:hover > a {
-  color: #b8a07e;
+  color: darkred;
 }
 .navbar .dropdown:hover > ul {
   opacity: 1;
@@ -356,7 +356,7 @@ p {
   color: #4b4a4a;
 }
 .navbar-mobile a:hover, .navbar-mobile .active, .navbar-mobile li:hover > a {
-  color: #b8a07e;
+  color: darkred;
 }
 .navbar-mobile .getstarted, .navbar-mobile .getstarted:focus {
   margin: 15px;
@@ -382,7 +382,7 @@ p {
   font-size: 12px;
 }
 .navbar-mobile .dropdown ul a:hover, .navbar-mobile .dropdown ul .active:hover, .navbar-mobile .dropdown ul li:hover > a {
-  color: #b8a07e;
+  color: darkred;
 }
 .navbar-mobile .dropdown > .dropdown-active {
   display: block;
@@ -498,7 +498,7 @@ p {
 
 #about .div-img-bg {
   
-  border: 20px solid #b8a07e;
+  border: 20px solid darkred;
 }
 
 #about .div-img-bg .about-img img {
@@ -551,7 +551,7 @@ p {
 
 .services-block i {
   font-size: 44px;
-  color: #b8a07e;
+  color: darkred;
   line-height: 44px;
 }
 
@@ -564,10 +564,10 @@ p {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #b8a07e;
+  border: 1px solid darkred;
 }
 .services-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #b8a07e;
+  background-color: darkred;
 }
 
 /*--------------------------------------------------------------
@@ -598,7 +598,7 @@ p {
   transition: all 0.3s ease-in-out;
 }
 #portfolio #portfolio-flters li:hover, #portfolio #portfolio-flters li.filter-active {
-  color: #b8a07e;
+  color: darkred;
 }
 #portfolio #portfolio-flters li:last-child {
   margin-right: 0;
@@ -634,10 +634,10 @@ p {
   right: 40px;
   font-size: 24px;
   top: calc(50% - 18px);
-  color: #b8a07e;
+  color: darkred;
 }
 #portfolio .portfolio-item .portfolio-info .preview-link:hover, #portfolio .portfolio-item .portfolio-info .details-link:hover {
-  color: #cab89f;
+  color: darkred;
 }
 #portfolio .portfolio-item .portfolio-info .details-link {
   right: 10px;
@@ -665,10 +665,10 @@ p {
   height: 12px;
   background-color: #fff;
   opacity: 1;
-  border: 1px solid #b8a07e;
+  border: 1px solid darkred;
 }
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #b8a07e;
+  background-color: darkred;
 }
 .portfolio-details .portfolio-info {
   padding: 30px;
@@ -747,7 +747,7 @@ p {
 }
 
 .journal-block .journal-info .journal-txt h4 a:hover {
-  color: #b8a07e;
+  color: darkred;
   transition: all 0.5s ease-in-out 0s;
 }
 
@@ -889,7 +889,7 @@ p {
 }
 
 .journal-txt h4 a:hover {
-  color: #b8a07e;
+  color: darkred;
   transition: all 0.5s ease-in-out 0s;
 }
 
@@ -973,7 +973,7 @@ blockquote {
   background-color: #f2f2f2;
   margin: 30px 0;
   border: none;
-  border-left: 4px solid #b8a07e;
+  border-left: 4px solid darkred;
 }
 
 /*--------------------------------------------------------------
@@ -1012,7 +1012,7 @@ blockquote {
 }
 
 #footer .socials-media ul li a:hover {
-  color: #b8a07e;
+  color: darkred;
   transition: all 0.5s ease-in-out 0s;
 }
 
