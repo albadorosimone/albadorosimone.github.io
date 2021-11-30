@@ -11,7 +11,7 @@
 body {
   background: #ffffff;
   color: #898989;
-  font-family: "Poppins", helvetica;
+  font-family: Awesome;
   font-size: 15px;
   font-weight: 300;
   line-height: 20px;
@@ -348,7 +348,7 @@ p {
 .btn {
   background: #333;
   border: medium none;
-  border-radius: 0;
+  border-radius: 10;
   color: #fff;
   font-size: 12px;
   height: 50px;
@@ -778,7 +778,8 @@ p {
 
 #about .div-img-bg {
   
-  border: 20px solid darkred;
+  border: 20px  darkred ;
+  
 }
 
 #about .div-img-bg .about-img img {
@@ -789,6 +790,7 @@ p {
   height: 400px;
   -o-object-fit: cover;
   object-fit: cover;
+  border-radius: 10px;
 }
 
 #about .about-descr .p-heading {
